@@ -1,0 +1,120 @@
+body{
+	font-family: sans-serif;
+}
+
+.tombol_exit{
+	position: fixed;
+	right: 20px;
+	top: 8px;
+}
+
+.tulisan_signIn{
+	text-align: left;
+	font-family: helvetica;
+	font-size: 30px;
+}
+
+.kotak_login{
+	width: 490px;
+	background: white;
+	margin: 60px ;
+	padding: 30px 20px;
+	height: 600px;
+	position: relative;
+	left: 130px;
+
+}
+
+label{
+	font-size: 11pt;
+}
+
+.form_login{
+	box-sizing : border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombol_login{
+	background: #005BC8;
+	color: white;
+	font-size: 13pt;
+	font-style: bold;
+	width: 100%;
+	border: none;
+	padding: 20px 30px;
+
+}
+
+.countries{
+	width: 36em;
+	height: 30px;
+	font-family: sans-serif;
+}
+
+.link:hover{
+	color: light blue;
+}
+
+#explore {
+    width: 1350px;
+    background-color: #4C4C4C;
+    float: left;
+    border-top: 1px solid #949494;
+    
+}
+.explore2 {
+    margin: 10px 0px 10px 145px;
+ 
+}
+#exploreHeading {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    float: left;
+}
+#exploreHeading1 {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    position: absolute;
+    right: 100px;
+}
+.signin:hover{
+	color: white;
+	text-decoration:underline;
+}
+
+#xHr {
+    width: 100%;
+    height: 1px;
+    border: 0px;
+    float: left;
+    margin-left: 145px;
+    background-color: #949494;
+}
+#fotter {
+    float: left;
+    margin-left: 145px;
+    margin-top: 0px;
+}
+#fotter p a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    margin-right: 22px;
+}
+#fotter p {
+    color: white;
+    font-size: 14px;
+}
+#fotter p a:hover {
+    text-decoration: underline;
+}
